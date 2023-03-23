@@ -1,0 +1,1 @@
+FROM alrale/oh-my-docker:latest
